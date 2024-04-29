@@ -1,0 +1,28 @@
+html{
+    scroll-behavior: smooth;
+    letter-spacing: -.1px;
+    scrollbar-color: #00754a #f1f1f1;
+}
+
+:root{
+    --body-bg: #fff;
+    --heading-color: #1e3932;
+    --light-green: #00754a;
+    --bs-teal: #20c997;
+    --text-white: #f9f9f9;
+    --black-text: rgb(28, 32, 35);
+    --box-shadow : #1c1c1c2e;
+    --grey-bg: rgb(237, 235, 233);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    font-family: "Noto Sans", sans-serif;
+    margin-top: 75px;
+    overflow-x: hidden;
+}
